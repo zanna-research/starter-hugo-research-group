@@ -26,4 +26,3 @@ jobs:
         CNAME: zanna-research.github.io
         HUGO_ARGS: --debug
         GO_VERSION: 1.17
-        publish_dir: ./public
